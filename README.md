@@ -1,2 +1,3 @@
 # Magic-Box
-|| I'll be happy with your contributions
+Simple Magic Box generator with C
+I'll be happy with your contributions
